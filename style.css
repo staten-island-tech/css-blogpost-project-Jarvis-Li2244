@@ -1,19 +1,44 @@
 html,
 body,
 *{
-    background-image: url("360_F_746165833_qbgJSv3436agQsBoKaCVYZuvq7vEFP3T.jpg");
+    background-image: url("22795d4c90a5ecd172d509c0fa514a21.jpg");
     background-size: cover;
     font-size: 16px;
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: "Fascinate Inline", system-ui;
+    font-weight: 400;
+    font-style: normal; 
 }
 
 body{
     text-align: center;
-    color: black;
+    color: rgb(165, 55, 230);
 }
 
 h1{
     font-size: 64px;
+}
+
+h4{
+    font-size: 16px;
+}
+
+
+.postone{
+    background: rgb(19, 13, 43);
+    padding: 10px;
+    margin: 5px auto;
+    width: 60%;
+    height: 600px;
+}
+.postone-h1{
+    font-size: 32px;
+    background: rgb(19, 13, 43)
+}
+.postone-img{
+    width: 350px;
+    height: 300px;
+    object-fit: cover;
 }
