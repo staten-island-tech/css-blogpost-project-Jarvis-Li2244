@@ -42,6 +42,8 @@ h4{
 .post-h1{
     background: rgb(13, 0, 45);
     font-size: 2rem;
+    text-decoration-line: underline;
+    text-decoration-thickness: auto;
 }
 .post-img{
     border-radius: 50px;
@@ -54,4 +56,8 @@ h4{
 .post-para{
     background: rgb(13, 0, 45);
     font-size: 1rem;
+}
+#post-link{
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
 }
